@@ -1,4 +1,24 @@
 # AME 자율주행 해커톤 대회
+* 2025년 자율주행 해커톤 대회 신청 자료
+
+## 대회 참가 인원
+* 주경호 
+* 이수민
+* 최승원
+
+## 자율주행 프로젝트
+---
+* 요구 조건: 자이트론 실습용 자율주행 모형차량 C모델
+* 목표 사항: 실제 코딩 기반으로 2팀이 동시에 출발하여 결승선을 먼저 통과
+
+| 구분 | 세부내용 | 비고 |
+|------------|------------------------------|------------|
+| 프레임 | 1/12 크기 자동차 차체 프레임 (LWH 47*20*17cm) | - |
+| SW | 리눅스 / ROS / 파이썬 프로그래밍 | - |
+| 프로세서 모듈 | 라즈베리파이 4B 4G / RAM 4GB / SD카드 64GB | - |
+| 센서 | IMU 관성센서, 카메라, 초음파센서, 무선랜 등 | - |
+
+
 ---
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)](https://www.kernel.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
@@ -6,4 +26,4 @@
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=ko)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)](https://pytorch.org)
-
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org)
