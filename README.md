@@ -23,24 +23,16 @@
 
 
 ## Provided OS & Tool & Device
----
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)](https://www.kernel.org)
 [![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)](https://www.ros.org)
-
----
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)](https://www.arduino.cc)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com)
 
 * OS
 >* Linux: 
 >* ROS: 
----
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
-[![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)](https://www.arduino.cc)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
-
----
-[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com)
-
----
 * Tool
 >* Arduino: 
 >* Ubuntu:
