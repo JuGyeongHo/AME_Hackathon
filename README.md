@@ -18,7 +18,7 @@
 | 프로세서 모듈 | 라즈베리파이 4B 4G / RAM 4GB / SD카드 64GB | - |
 | 센서 | IMU 관성센서, 카메라, 초음파센서, 무선랜 등 | - |
 
-* 예선 트랙:
+* 예선 트랙
 <img src="image/image.png" width="600" height ="300">
 
 
@@ -31,7 +31,7 @@
 >* Arduino: 
 >* Ubuntu:
 >* Python: 
-* Device:
+* Device
 >* Raspberry 4B: 
 >* IMU Sensor: 
 >* USB Camera: 
