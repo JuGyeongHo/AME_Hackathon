@@ -19,7 +19,7 @@
 | 센서 | IMU 관성센서, 카메라, 초음파센서, 무선랜 등 | - |
 
 * 예선 트랙:
-<img src="image.png" width="600" height ="300">
+<img src="image/image.png" width="600" height ="300">
 
 
 ## OS & Tool & Device
