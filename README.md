@@ -18,6 +18,10 @@
 | 프로세서 모듈 | 라즈베리파이 4B 4G / RAM 4GB / SD카드 64GB | - |
 | 센서 | IMU 관성센서, 카메라, 초음파센서, 무선랜 등 | - |
 
+* 예선 트랙:
+<img src="image.png" width="600" height ="400">
+
+
 ## OS & Tool & Device
 ---
 * OS
@@ -34,8 +38,22 @@
 >* Ultrasound Sensor: 
 ---
 ## 프로젝트 
-**목표**
-![Pre-tournament Track](image.png)
+
+* 서론
+>* 동기 및 문제 정의(ex. 자율주행 시스템의 동향 및 문제)
+>* 목표(ex. 대회 출전을 통한 자율주행 시스템 능력 증진)
+* 본론
+>* 목표
+>>1. 신호등 인식 출발
+>>2. 라바콘 주행
+>>3. 차선 주행
+>>4. 결승선 통과
+>* 
+
+* 결론
+
+
+
 ---
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)](https://www.kernel.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
