@@ -22,7 +22,7 @@
 <img src="image/image.png" width="600" height ="300">
 
 
-## OS & Tool & Device
+## Provided OS & Tool & Device
 ---
 * OS
 >* Linux: 
