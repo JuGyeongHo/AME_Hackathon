@@ -28,7 +28,7 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)](https://www.arduino.cc)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
-[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com)
+[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com)
 
 * OS
 >* Linux: 
