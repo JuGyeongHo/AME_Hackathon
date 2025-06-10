@@ -34,7 +34,8 @@
 >* Ultrasound Sensor: 
 ---
 ## 프로젝트 
-
+**목표**
+![Pre-tournament Track](image.png)
 ---
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)](https://www.kernel.org)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
