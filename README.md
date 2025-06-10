@@ -24,9 +24,23 @@
 
 ## Provided OS & Tool & Device
 ---
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)](https://www.kernel.org)
+[![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)](https://www.ros.org)
+
+---
+
 * OS
 >* Linux: 
 >* ROS: 
+---
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
+[![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)](https://www.arduino.cc)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+
+---
+[![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com)
+
+---
 * Tool
 >* Arduino: 
 >* Ubuntu:
@@ -44,7 +58,7 @@
 * 목표 및 해결 방안(ex. 안정적인 자율 주행 시스템을 구현)
 
 본론
-* 시스템 구조 및 목표 사항: 
+* 시스템 구조 및 목표 사항 
 >1. 신호등 인식 출발
 >2. 라바콘 주행
 >3. 차선 주행
@@ -53,19 +67,13 @@
 >* OS: Linux, ROS
 >* Tool: Ubuntu,Arduino,Python
 >* Device: Raspberry 4B,IMU Sensor,IMU Sensor,Ultrasound Sensor
-* 시스템 설계안 및 구현 방법: 
-* 적용 시나리오: 
+* 시스템 설계안 및 구현 방법
+* 적용 시나리오
 
 결론
-* 설계안 중요사항 및 요약
+* 중요사항 및 요약
 * 기대 효과 및 활용 가능성
 
 
 ---
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=flat-square&logoColor=black)](https://www.kernel.org)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
-[![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)](https://www.ros.org)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/?hl=ko)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)](https://pytorch.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org)
+
