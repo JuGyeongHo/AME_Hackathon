@@ -19,7 +19,7 @@
 | 센서 | IMU 관성센서, 카메라, 초음파센서, 무선랜 등 | - |
 
 * 예선 트랙
-<img src="image/image.png" width="600" height ="300">
+<img src="image/track.png" width="600" height ="300">
 
 
 ## Provided OS & Tool & Device
@@ -29,7 +29,6 @@
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&style=flat-square&logoColor=fff&style=plastic)](https://www.arduino.cc)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com)
-
 * OS
 >* Linux: 
 >* ROS: 
