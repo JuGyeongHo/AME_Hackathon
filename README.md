@@ -29,8 +29,9 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&style=flat-square&logoColor=white)](https://ubuntu.com)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&style=flat-square&logoColor=fff&style=plastic)](https://www.arduino.cc)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](http://pytorch.org)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](http://pytorch.org)
+
 * OS
 >* Linux: 1991년 개발된 Lunux kernel 기반 오픈소스 운영체제이다.
 >* ROS: 로봇 개발을 위해 tools, libraries 등을 제공하는 오픈소스 플랫폼이다.
