@@ -34,8 +34,8 @@
 
 * OS
 >* Linux: 1991년 개발된 Lunux kernel 기반 오픈소스 운영체제이다.
->* ROS: 로봇 개발을 위해 tools, libraries 등을 제공하는 오픈소스 플랫폼이다.
 * Tool
+>* ROS: 로봇 개발을 위해 tools, libraries 등을 제공하는 오픈소스 플랫폼이다.
 >* Arduino: MCU 기반으로 만들어진 보드 및 오픈 소스 개발 환경(IDE)이다.
 >* Ubuntu: Debian 기반의 오픈 소스 Linux 운영체제의 한 종류이다.
 >* Python: 쉬운 문법,인터프리터, 객체지향, 다양한 라이브러리, 등의 특징으로 가장 맣이 사용되는 프로그래밍 언어 중 하나이다.
