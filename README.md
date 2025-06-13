@@ -33,7 +33,7 @@
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com)
 
 * OS
->* Linux: 1991년 개발된 Lunux kernel 기반 오픈소스 운영체제이다.
+>* Linux: 1991년 개발된 Unix 기반 오픈소스 운영체제로 Kernel과 SW 패키지로 구성되며, 현재 다양한 장치에서 사용되고 있다.
 * Tool
 >* ROS: 로봇 개발을 위해 tools, libraries 등을 제공하는 오픈소스 플랫폼이다.
 >* Arduino: MCU 기반으로 만들어진 보드 및 오픈 소스 개발 환경(IDE)이다.
