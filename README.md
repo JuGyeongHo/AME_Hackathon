@@ -30,17 +30,16 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)](https://www.raspberrypi.com)
 * OS
->* Linux: 
->* ROS: 
+>* Linux: 1991년 개발된 Lunux kernel 기반 오픈소스 운영체제이다.
+>* ROS: 로봇 개발을 위해 tools, libraries 등을 제공하는 오픈소스 플랫폼이다.
 * Tool
->* Arduino: 
->* Ubuntu:
->* Python: 
+>* Arduino: MCU 기반으로 만들어진 보드 및 오픈 소스 개발 환경(IDE)이다.
+>* Ubuntu: Debian 기반의 오픈 소스 Linux 운영체제의 한 종류이다.
+>* Python: 쉬운 문법,인터프리터, 객체지향, 다양한 라이브러리, 등의 특징으로 가장 맣이 사용되는 프로그래밍 언어 중 하나이다.
 * Device
->* Raspberry 4B: 
->* IMU Sensor: 
->* USB Camera: 
->* Ultrasound Sensor: 
+>* Raspberry:  리눅스 커널 기반의 개발이 가능한 보드로 임베디드, IoT 분야에서 사용된다.
+>* IMU Sensor: 물체의 움직임, 기울기, 회전, 방향 등을 실시간으로 측정하여 파악하는 센서이다.
+>* Ultrasound Sensor: 초음파를 이용하여 물체와의 거리를 측정하는 센서이다.
 ---
 ## 프로젝트 
 
